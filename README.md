@@ -20,3 +20,14 @@ So the user always has access to this data.
 
 ![Disconnected](https://user-images.githubusercontent.com/72665312/110254133-18050d80-7f8e-11eb-80e2-f8b80bf6c3c6.jpg)
 
+
+SECURITY 
+ 
+Here all safety aspects have been respected :
+
+- The API and the different communications are of course HTTPS.
+- Here the url of our api is encoded in base 64. 
+- The user's connection is secure it is hashed sha256
+
+
+
